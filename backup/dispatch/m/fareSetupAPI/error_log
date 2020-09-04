@@ -1,0 +1,345 @@
+[08-Feb-2020 09:23:43 America/New_York] PHP Warning:  include(../c/api.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/dispatch/m/fareSetupAPI/actionFare.php on line 2
+[08-Feb-2020 09:23:43 America/New_York] PHP Warning:  include(): Failed opening '../c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/dispatch/m/fareSetupAPI/actionFare.php on line 2
+[08-Feb-2020 09:23:43 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/fareSetupAPI/actionFare.php on line 14
+[27-Feb-2020 05:24:49 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:24:49 UTC] PHP Stack trace:
+[27-Feb-2020 05:24:49 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:24:49 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:24:49 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:24:49 UTC] PHP Stack trace:
+[27-Feb-2020 05:24:49 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:24:49 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:24:49 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:24:49 UTC] PHP Stack trace:
+[27-Feb-2020 05:24:49 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:24:49 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:26:08 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:26:08 UTC] PHP Stack trace:
+[27-Feb-2020 05:26:08 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:26:08 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:26:08 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:26:08 UTC] PHP Stack trace:
+[27-Feb-2020 05:26:08 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:26:08 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:26:08 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:26:08 UTC] PHP Stack trace:
+[27-Feb-2020 05:26:08 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:26:08 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:29:36 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:29:36 UTC] PHP Stack trace:
+[27-Feb-2020 05:29:36 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:29:36 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:29:36 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:29:36 UTC] PHP Stack trace:
+[27-Feb-2020 05:29:36 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:29:36 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 05:29:36 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:29:36 UTC] PHP Stack trace:
+[27-Feb-2020 05:29:36 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 05:29:36 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 06:12:40 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 06:12:40 UTC] PHP Stack trace:
+[27-Feb-2020 06:12:40 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 06:12:40 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 06:12:40 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 06:12:40 UTC] PHP Stack trace:
+[27-Feb-2020 06:12:40 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 06:12:40 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 06:12:40 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 06:12:40 UTC] PHP Stack trace:
+[27-Feb-2020 06:12:40 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 06:12:40 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 06:13:59 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 06:13:59 UTC] PHP Stack trace:
+[27-Feb-2020 06:13:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 06:13:59 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 06:13:59 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 06:13:59 UTC] PHP Stack trace:
+[27-Feb-2020 06:13:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 06:13:59 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[27-Feb-2020 06:13:59 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 06:13:59 UTC] PHP Stack trace:
+[27-Feb-2020 06:13:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[27-Feb-2020 06:13:59 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:10:41 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:10:41 UTC] PHP Stack trace:
+[28-Feb-2020 03:10:41 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:10:41 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:10:41 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:10:41 UTC] PHP Stack trace:
+[28-Feb-2020 03:10:41 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:10:41 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:10:41 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:10:41 UTC] PHP Stack trace:
+[28-Feb-2020 03:10:41 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:10:41 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:15:16 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:16 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:16 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:15:16 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:15:16 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:16 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:16 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:15:16 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:15:16 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:16 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:16 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:15:16 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:15:38 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:38 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:38 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:15:38 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:15:38 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:38 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:38 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:15:38 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:15:38 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:38 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:38 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:15:38 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:15:53 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:53 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:53 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:15:53 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:15:53 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:53 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:53 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:15:53 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:15:53 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:15:53 UTC] PHP Stack trace:
+[28-Feb-2020 03:15:53 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:15:53 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:05 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:05 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:05 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:05 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:05 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:05 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:05 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:05 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:05 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:05 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:05 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:05 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:46 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:46 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:46 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:46 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:46 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:46 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:46 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:46 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:46 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:46 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:46 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:46 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:55 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:55 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:55 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:55 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:55 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:55 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:55 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:55 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:16:55 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:16:55 UTC] PHP Stack trace:
+[28-Feb-2020 03:16:55 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:16:55 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:27:47 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:27:47 UTC] PHP Stack trace:
+[28-Feb-2020 03:27:47 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:27:47 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:27:47 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:27:47 UTC] PHP Stack trace:
+[28-Feb-2020 03:27:47 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:27:47 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:27:47 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:27:47 UTC] PHP Stack trace:
+[28-Feb-2020 03:27:47 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:27:47 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:28:23 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:28:23 UTC] PHP Stack trace:
+[28-Feb-2020 03:28:23 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:28:23 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:28:23 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:28:23 UTC] PHP Stack trace:
+[28-Feb-2020 03:28:23 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:28:23 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:28:23 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:28:23 UTC] PHP Stack trace:
+[28-Feb-2020 03:28:23 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:28:23 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:29:15 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:29:15 UTC] PHP Stack trace:
+[28-Feb-2020 03:29:15 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:29:15 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:29:15 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:29:15 UTC] PHP Stack trace:
+[28-Feb-2020 03:29:15 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:29:15 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:29:15 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:29:15 UTC] PHP Stack trace:
+[28-Feb-2020 03:29:15 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:29:15 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:30:40 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:30:40 UTC] PHP Stack trace:
+[28-Feb-2020 03:30:40 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:30:40 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:30:40 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:30:40 UTC] PHP Stack trace:
+[28-Feb-2020 03:30:40 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:30:40 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:30:40 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:30:40 UTC] PHP Stack trace:
+[28-Feb-2020 03:30:40 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:30:40 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:31:13 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:31:13 UTC] PHP Stack trace:
+[28-Feb-2020 03:31:13 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:31:13 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:31:13 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:31:13 UTC] PHP Stack trace:
+[28-Feb-2020 03:31:13 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:31:13 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:31:13 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:31:13 UTC] PHP Stack trace:
+[28-Feb-2020 03:31:13 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:31:13 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:31:43 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:31:43 UTC] PHP Stack trace:
+[28-Feb-2020 03:31:43 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:31:43 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:31:43 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:31:43 UTC] PHP Stack trace:
+[28-Feb-2020 03:31:43 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:31:43 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:31:43 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:31:43 UTC] PHP Stack trace:
+[28-Feb-2020 03:31:43 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:31:43 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:32:20 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:32:20 UTC] PHP Stack trace:
+[28-Feb-2020 03:32:20 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:32:20 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:32:20 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:32:20 UTC] PHP Stack trace:
+[28-Feb-2020 03:32:20 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:32:20 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:32:20 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:32:20 UTC] PHP Stack trace:
+[28-Feb-2020 03:32:20 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:32:20 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:32:31 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:32:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:32:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:32:31 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:32:31 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:32:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:32:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:32:31 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:32:31 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:32:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:32:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:32:31 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:33:11 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:33:11 UTC] PHP Stack trace:
+[28-Feb-2020 03:33:11 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:33:11 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:33:11 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:33:11 UTC] PHP Stack trace:
+[28-Feb-2020 03:33:11 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:33:11 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:33:11 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:33:11 UTC] PHP Stack trace:
+[28-Feb-2020 03:33:11 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:33:11 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:33:52 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:33:52 UTC] PHP Stack trace:
+[28-Feb-2020 03:33:52 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:33:52 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:33:52 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:33:52 UTC] PHP Stack trace:
+[28-Feb-2020 03:33:52 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:33:52 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:33:52 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:33:52 UTC] PHP Stack trace:
+[28-Feb-2020 03:33:52 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:33:52 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:49:31 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:49:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:49:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:49:31 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:49:31 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:49:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:49:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:49:31 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:49:31 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:49:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:49:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:49:31 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:3
+[28-Feb-2020 03:49:31 UTC] PHP Notice:  Undefined index: k in /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php on line 14
+[28-Feb-2020 03:49:31 UTC] PHP Stack trace:
+[28-Feb-2020 03:49:31 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFare.php:0
+[28-Feb-2020 03:50:26 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:50:26 UTC] PHP Stack trace:
+[28-Feb-2020 03:50:26 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:50:26 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:50:26 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:50:26 UTC] PHP Stack trace:
+[28-Feb-2020 03:50:26 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:50:26 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:50:26 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:50:26 UTC] PHP Stack trace:
+[28-Feb-2020 03:50:26 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:50:26 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:52:27 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:52:27 UTC] PHP Stack trace:
+[28-Feb-2020 03:52:27 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:52:27 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:52:27 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:52:27 UTC] PHP Stack trace:
+[28-Feb-2020 03:52:27 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:52:27 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:52:27 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:52:27 UTC] PHP Stack trace:
+[28-Feb-2020 03:52:27 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:52:27 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:52:27 UTC] PHP Notice:  Undefined index: k in /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php on line 15
+[28-Feb-2020 03:52:27 UTC] PHP Stack trace:
+[28-Feb-2020 03:52:27 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:55:22 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:55:22 UTC] PHP Stack trace:
+[28-Feb-2020 03:55:22 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:55:22 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:55:22 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:55:22 UTC] PHP Stack trace:
+[28-Feb-2020 03:55:22 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:55:22 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 03:55:22 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 03:55:22 UTC] PHP Stack trace:
+[28-Feb-2020 03:55:22 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 03:55:22 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 04:05:39 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 04:05:39 UTC] PHP Stack trace:
+[28-Feb-2020 04:05:39 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 04:05:39 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 04:05:39 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 04:05:39 UTC] PHP Stack trace:
+[28-Feb-2020 04:05:39 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 04:05:39 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 04:05:39 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 04:05:39 UTC] PHP Stack trace:
+[28-Feb-2020 04:05:39 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 04:05:39 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 04:14:19 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 04:14:19 UTC] PHP Stack trace:
+[28-Feb-2020 04:14:19 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 04:14:19 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 04:14:19 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 04:14:19 UTC] PHP Stack trace:
+[28-Feb-2020 04:14:19 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 04:14:19 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3
+[28-Feb-2020 04:14:19 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 04:14:19 UTC] PHP Stack trace:
+[28-Feb-2020 04:14:19 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:0
+[28-Feb-2020 04:14:19 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/fareSetupAPI/actionFareD.php:3

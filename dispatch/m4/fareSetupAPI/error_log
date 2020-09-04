@@ -1,0 +1,3 @@
+[08-Feb-2020 09:23:43 America/New_York] PHP Warning:  include(../c/api.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/dispatch/m/fareSetupAPI/actionFare.php on line 2
+[08-Feb-2020 09:23:43 America/New_York] PHP Warning:  include(): Failed opening '../c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/dispatch/m/fareSetupAPI/actionFare.php on line 2
+[08-Feb-2020 09:23:43 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/fareSetupAPI/actionFare.php on line 14

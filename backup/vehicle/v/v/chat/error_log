@@ -1,0 +1,135 @@
+[15-Dec-2019 01:46:24 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/mdriver.masterydispatch.com/chating/index.php on line 47
+[15-Dec-2019 01:49:36 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/mdriver.masterydispatch.com/chating/index.php on line 47
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: login_details_id in /home/mastyagr/mdriver.masterydispatch.com/chating/update_last_activity.php on line 12
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 11
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 45
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 45
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 45
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 45
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 45
+[15-Dec-2019 02:19:21 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/mdriver.masterydispatch.com/chating/fetch_user.php on line 45
+[15-Dec-2019 02:55:55 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/mdriver.masterydispatch.com/v/chat/index.php on line 47
+[15-Dec-2019 02:56:39 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/mdriver.masterydispatch.com/v/chat/index.php on line 47
+[15-Dec-2019 12:08:31 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/mdriver.masterydispatch.com/v/chat/index.php on line 47
+[15-Dec-2019 13:21:56 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 13:43:39 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 14:15:40 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 14:17:08 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 14:18:09 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 14:39:55 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 11
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 14:43:00 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/mastyagr/app.masterydispatch.com/w/v/chat/login.php on line 13
+[15-Dec-2019 14:43:42 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 15:02:41 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 47
+[15-Dec-2019 15:06:30 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/mastyagr/app.masterydispatch.com/w/v/chat/login.php on line 13
+[15-Dec-2019 15:06:31 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/app.masterydispatch.com/w/v/chat/register.php on line 18
+[15-Dec-2019 15:06:31 Asia/Kolkata] PHP Notice:  Undefined index: password in /home/mastyagr/app.masterydispatch.com/w/v/chat/register.php on line 20
+[15-Dec-2019 16:06:58 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/mastyagr/app.masterydispatch.com/w/v/chat/login.php on line 13
+[15-Dec-2019 16:06:58 Asia/Kolkata] PHP Notice:  Undefined index: login_details_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/update_last_activity.php on line 12
+[15-Dec-2019 16:06:58 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 11
+[15-Dec-2019 16:06:58 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 16:06:58 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 16:17:28 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/mastyagr/app.masterydispatch.com/w/v/chat/login.php on line 13
+[15-Dec-2019 16:17:28 Asia/Kolkata] PHP Notice:  Undefined index: login_details_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/update_last_activity.php on line 12
+[15-Dec-2019 16:17:29 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 11
+[15-Dec-2019 16:17:29 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 16:17:29 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 16:17:29 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/mastyagr/app.masterydispatch.com/w/v/chat/fetch_user.php on line 45
+[15-Dec-2019 07:02:39 America/New_York] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 1
+[15-Dec-2019 07:02:39 America/New_York] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 1
+[15-Dec-2019 07:02:39 America/New_York] PHP Notice:  Undefined variable: nav in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:02:39 America/New_York] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:02:39 America/New_York] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:03:07 America/New_York] PHP Warning:  include(.../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 1
+[15-Dec-2019 07:03:07 America/New_York] PHP Warning:  include(): Failed opening '.../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 1
+[15-Dec-2019 07:03:07 America/New_York] PHP Notice:  Undefined variable: nav in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:03:07 America/New_York] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:03:07 America/New_York] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:03:57 America/New_York] PHP Warning:  include(.../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 1
+[15-Dec-2019 07:03:57 America/New_York] PHP Warning:  include(): Failed opening '.../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 1
+[15-Dec-2019 07:03:57 America/New_York] PHP Notice:  Undefined variable: nav in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:03:57 America/New_York] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 07:03:57 America/New_York] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 2
+[15-Dec-2019 19:14:39 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 31
+[15-Dec-2019 19:14:39 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 31
+[15-Dec-2019 19:14:39 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 32
+[15-Dec-2019 19:14:39 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 32
+[15-Dec-2019 19:14:39 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 32
+[15-Dec-2019 19:15:22 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 30
+[15-Dec-2019 19:15:22 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 30
+[15-Dec-2019 19:15:22 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 31
+[15-Dec-2019 19:15:22 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 31
+[15-Dec-2019 19:15:22 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/app.masterydispatch.com/w/v/chat/index.php on line 31
+[22-Dec-2019 13:54:19 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 13:54:19 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 13:54:19 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 13:54:19 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 13:54:19 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 13:55:18 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 13:55:18 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 13:55:18 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 13:55:18 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 13:55:18 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 21:53:27 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 21:53:27 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 21:53:27 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 21:53:27 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 21:53:27 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 21:59:13 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 21:59:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 21:59:13 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 21:59:13 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 21:59:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:01:33 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:01:33 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:01:33 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:01:33 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:01:33 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:03:21 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:03:21 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:03:21 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:03:21 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:03:21 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:05:09 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:05:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:05:09 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:05:09 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:05:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:05:44 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:05:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:05:44 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:05:44 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:05:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:09:16 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:09:16 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:09:16 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:09:16 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:09:16 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:09:16 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 50
+[22-Dec-2019 22:09:18 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/login.php on line 13
+[22-Dec-2019 22:10:46 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:10:46 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:10:46 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:10:46 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:10:46 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:22:52 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:22:52 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:22:52 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:22:52 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:22:52 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:23:42 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:23:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[22-Dec-2019 22:23:42 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:23:42 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[22-Dec-2019 22:23:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[25-Dec-2019 13:05:03 Asia/Kolkata] PHP Warning:  include(../c/c.php): failed to open stream: No such file or directory in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[25-Dec-2019 13:05:03 Asia/Kolkata] PHP Warning:  include(): Failed opening '../c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 30
+[25-Dec-2019 13:05:03 Asia/Kolkata] PHP Notice:  Undefined variable: nav in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[25-Dec-2019 13:05:03 Asia/Kolkata] PHP Warning:  include(): Filename cannot be empty in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31
+[25-Dec-2019 13:05:03 Asia/Kolkata] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/mastyagr/cloud.masterydispatch.com/dispatch/v/chat/index.php on line 31

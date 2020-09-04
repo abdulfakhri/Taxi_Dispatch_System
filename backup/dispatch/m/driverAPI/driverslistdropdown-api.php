@@ -1,0 +1,28 @@
+<?php  
+$rootDir = realpath($_SERVER["DOCUMENT_ROOT"]);
+include "$rootDir/c.php"; 
+
+   
+ ?>                               
+
+                            <select name="assign_car"  class="selectT-Mini2" required>  
+                                <option value="Not Assigned">Driver</option> 
+                               <?php
+                               //name='$res2["driverId"]'
+                                $api=$_SESSION['id'];
+                                
+                               $resul = mysqli_query($conn,"SELECT * FROM taxi_drivers WHERE taxi_comp='$api_key'");
+		                       while($res2 = mysqli_fetch_array($resul)) {
+		                          $st=$res2["dfree_busy"];
+		                          $driverReport=$res2["report"];
+		                          //$lo
+		                          if($st=="free"){
+		                              
+	                           ?> 
+<option value="<?PHP echo $res2["driverId"]."&".$res2["report"]."&".$res2["driving_license"]."&".$res2["license_plate"];?>"><?PHP echo $res2["driverId"];?></option>
+	                          
+                                <?PHP
+		                      }
+		                    }
+		                 ?>
+		                  </select>

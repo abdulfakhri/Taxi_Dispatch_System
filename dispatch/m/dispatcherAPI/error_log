@@ -1,0 +1,245 @@
+[08-Feb-2020 03:01:18 America/New_York] PHP Warning:  include(../c/api.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:18 America/New_York] PHP Warning:  include(): Failed opening '../c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:18 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 13
+[08-Feb-2020 03:01:32 America/New_York] PHP Warning:  include(../c/api.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:32 America/New_York] PHP Warning:  include(): Failed opening '../c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:32 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 58
+[08-Feb-2020 03:01:32 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 60
+[08-Feb-2020 03:01:36 America/New_York] PHP Warning:  include(../c/api.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:36 America/New_York] PHP Warning:  include(): Failed opening '../c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:36 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 13
+[08-Feb-2020 03:01:47 America/New_York] PHP Warning:  include(../c/api.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:47 America/New_York] PHP Warning:  include(): Failed opening '../c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 2
+[08-Feb-2020 03:01:47 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/aidifxin/cloud/dispatch/m/dispatcherAPI/actionDispatch.php on line 13
+[27-Feb-2020 04:53:24 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:53:24 UTC] PHP Stack trace:
+[27-Feb-2020 04:53:24 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:53:24 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:53:24 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:53:24 UTC] PHP Stack trace:
+[27-Feb-2020 04:53:24 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:53:24 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:53:24 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:53:24 UTC] PHP Stack trace:
+[27-Feb-2020 04:53:24 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:53:24 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 21
+[27-Feb-2020 04:54:59 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:54:59 UTC] PHP Stack trace:
+[27-Feb-2020 04:54:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:54:59 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:54:59 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:54:59 UTC] PHP Stack trace:
+[27-Feb-2020 04:54:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:54:59 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:54:59 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:54:59 UTC] PHP Stack trace:
+[27-Feb-2020 04:54:59 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:54:59 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fetchAll() in /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 21
+[27-Feb-2020 04:57:18 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:57:18 UTC] PHP Stack trace:
+[27-Feb-2020 04:57:18 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:57:18 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:57:18 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:57:18 UTC] PHP Stack trace:
+[27-Feb-2020 04:57:18 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:57:18 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:57:18 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:57:18 UTC] PHP Stack trace:
+[27-Feb-2020 04:57:18 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:57:18 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:58:26 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:58:26 UTC] PHP Stack trace:
+[27-Feb-2020 04:58:26 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:58:26 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:58:26 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:58:26 UTC] PHP Stack trace:
+[27-Feb-2020 04:58:26 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:58:26 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 04:58:26 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 04:58:26 UTC] PHP Stack trace:
+[27-Feb-2020 04:58:26 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 04:58:26 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 05:01:18 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:01:18 UTC] PHP Stack trace:
+[27-Feb-2020 05:01:18 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 05:01:18 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 05:01:18 UTC] PHP Warning:  include(../c/linkApi.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:01:18 UTC] PHP Stack trace:
+[27-Feb-2020 05:01:18 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 05:01:18 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[27-Feb-2020 05:01:18 UTC] PHP Warning:  include(): Failed opening '../c/linkApi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 3
+[27-Feb-2020 05:01:18 UTC] PHP Stack trace:
+[27-Feb-2020 05:01:18 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[27-Feb-2020 05:01:18 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:47:58 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:47:58 UTC] PHP Stack trace:
+[28-Feb-2020 11:47:58 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:47:58 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:47:58 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:47:58 UTC] PHP Stack trace:
+[28-Feb-2020 11:47:58 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:47:58 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:47:58 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:47:58 UTC] PHP Stack trace:
+[28-Feb-2020 11:47:58 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:47:58 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:52:35 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:52:35 UTC] PHP Stack trace:
+[28-Feb-2020 11:52:35 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:52:35 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:52:35 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:52:35 UTC] PHP Stack trace:
+[28-Feb-2020 11:52:35 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:52:35 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:52:35 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:52:35 UTC] PHP Stack trace:
+[28-Feb-2020 11:52:35 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:52:35 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:52:54 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:52:54 UTC] PHP Stack trace:
+[28-Feb-2020 11:52:54 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:52:54 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:52:54 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:52:54 UTC] PHP Stack trace:
+[28-Feb-2020 11:52:54 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:52:54 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:52:54 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:52:54 UTC] PHP Stack trace:
+[28-Feb-2020 11:52:54 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:52:54 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:53:00 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:53:00 UTC] PHP Stack trace:
+[28-Feb-2020 11:53:00 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:53:00 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:53:00 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:53:00 UTC] PHP Stack trace:
+[28-Feb-2020 11:53:00 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:53:00 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:53:00 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:53:00 UTC] PHP Stack trace:
+[28-Feb-2020 11:53:00 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:53:00 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:53:01 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:53:01 UTC] PHP Stack trace:
+[28-Feb-2020 11:53:01 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:53:01 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:53:01 UTC] PHP Warning:  include(script.php): failed to open stream: No such file or directory in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:53:01 UTC] PHP Stack trace:
+[28-Feb-2020 11:53:01 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:53:01 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[28-Feb-2020 11:53:01 UTC] PHP Warning:  include(): Failed opening 'script.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bnsznyem/cloud.regrowup.com/c.php on line 4
+[28-Feb-2020 11:53:01 UTC] PHP Stack trace:
+[28-Feb-2020 11:53:01 UTC] PHP   1. {main}() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:0
+[28-Feb-2020 11:53:01 UTC] PHP   2. include() /home/bnsznyem/cloud.regrowup.com/dispatch/m/dispatcherAPI/actionDispatch.php:3
+[16-Jul-2020 23:16:08 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:08 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:08 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[16-Jul-2020 23:16:24 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:24 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:24 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[16-Jul-2020 23:16:27 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:27 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:27 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[16-Jul-2020 23:16:31 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:31 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:31 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[16-Jul-2020 23:16:36 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:36 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:36 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[16-Jul-2020 23:16:41 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:41 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:41 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[16-Jul-2020 23:16:41 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:41 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:41 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[16-Jul-2020 23:16:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:36:48 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:36:48 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:36:48 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:36:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:45:01 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:01 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:01 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:45:10 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:10 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:10 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:45:16 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:16 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:16 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:45:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:47:17 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:17 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:17 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:47:28 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:28 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:28 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:47:43 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:43 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:43 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:47:43 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:43 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:43 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:47:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:48:12 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:48:12 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:48:12 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:48:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:50:58 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:50:58 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:50:58 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:50:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[27-Jul-2020 01:51:00 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:51:00 America/New_York] PHP Warning:  include(/home/ironxpxj/trip.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:51:00 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/trip.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[27-Jul-2020 01:51:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/api.php on line 2
+[10-Aug-2020 17:22:42 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:42 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:42 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:22:53 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:53 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:53 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:22:55 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:55 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:55 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:22:57 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:57 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:57 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:22:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:23:01 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:01 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:01 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:23:01 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:01 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:01 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:23:07 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:07 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:07 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2
+[10-Aug-2020 17:23:07 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:07 America/New_York] PHP Warning:  include(/home/ironxpxj/aidispatchsys.irontin.com/connnection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:07 America/New_York] PHP Warning:  include(): Failed opening '/home/ironxpxj/aidispatchsys.irontin.com/connnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/dispatch/m/dispatcherAPI/actionDispatch.php on line 4
+[10-Aug-2020 17:23:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/api.php on line 2

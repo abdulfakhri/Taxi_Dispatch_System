@@ -1,0 +1,50 @@
+[22-Jan-2020 09:46:20 America/New_York] PHP Warning:  include(../c/connection.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:46:20 America/New_York] PHP Warning:  include(): Failed opening '../c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:46:20 America/New_York] PHP Warning:  include(../c/nav/nav-u.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 44
+[22-Jan-2020 09:46:20 America/New_York] PHP Warning:  include(): Failed opening '../c/nav/nav-u.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 44
+[22-Jan-2020 09:46:20 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:47:41 America/New_York] PHP Warning:  include(../c/connection.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:47:41 America/New_York] PHP Warning:  include(): Failed opening '../c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:47:41 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:48:41 America/New_York] PHP Warning:  include(../c/connection.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:48:41 America/New_York] PHP Warning:  include(): Failed opening '../c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:48:41 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:49:22 America/New_York] PHP Warning:  include(../c/connection.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:49:22 America/New_York] PHP Warning:  include(): Failed opening '../c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:49:22 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:54:40 America/New_York] PHP Warning:  include(../c/connection.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:54:40 America/New_York] PHP Warning:  include(): Failed opening '../c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:54:40 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:54:55 America/New_York] PHP Warning:  include(../c/connection.php): failed to open stream: No such file or directory in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:54:55 America/New_York] PHP Warning:  include(): Failed opening '../c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aidifxin/cloud/admin/login.php on line 5
+[22-Jan-2020 09:54:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/aidifxin/cloud/admin/login.php on line 13
+[22-Jan-2020 09:54:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aidifxin/cloud/admin/login.php on line 13
+[22-Jan-2020 09:54:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aidifxin/cloud/admin/login.php on line 14
+[22-Jan-2020 09:54:55 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:55:47 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 09:56:03 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:30:03 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:30:16 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:36:10 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:36:23 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:37:47 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:40:44 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:44:25 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:49:48 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 10:52:23 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 11:40:24 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 11:43:24 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 11:59:22 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 11:59:30 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[22-Jan-2020 12:01:54 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 07:15:53 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 07:16:16 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 08:18:30 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 08:18:43 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 12:18:16 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 12:18:32 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 20:42:07 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 20:42:33 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 20:42:58 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 23:20:35 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83
+[25-Jan-2020 23:20:54 America/New_York] PHP Notice:  Undefined variable: reg in /home/aidifxin/cloud/admin/login.php on line 83

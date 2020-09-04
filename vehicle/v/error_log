@@ -1,0 +1,380 @@
+The uploaded file exceeds the hosting plan limit. Please, consider upgrading to a more powerful hosting package.
+
+www.freehostia.com
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:39:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:39:05 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:40:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:40:05 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:41:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/readdriverhistory_api.php on line 2
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:41:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:41:22 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:42:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:42:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:28 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:42:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:36 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/trip.irontin.com/vehicle/c/layout/style.php on line 105
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 19
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 46
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 60
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 61
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 62
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/trip.irontin.com/vehicle/m/dprofile.php on line 63
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/trip.irontin.com/vehicle/v/home.php on line 54
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 4
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 5
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 6
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 7
+[16-Jul-2020 23:42:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/trip.irontin.com/vehicle/v/chat.php on line 116
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 68
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 70
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[16-Jul-2020 23:42:41 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/trip.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:45:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:45:52 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:45:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:45:53 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:09 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:46:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:46:19 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:47:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:47:32 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:47:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:47:33 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 81
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 82
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined variable: colormode in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/c/layout/style.php on line 105
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 19
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 46
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: src_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 60
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: esrc_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 61
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: dest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 62
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: edest_addr in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/m/dprofile.php on line 63
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined variable: jId in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/home.php on line 54
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 4
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: uid in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 5
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: n in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 6
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  Undefined index: t in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 7
+[10-Aug-2020 17:48:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/chat.php on line 116
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/api.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/api.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 68
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/c.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/c.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 70
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(/home/aidifxin/cloud/vehicle/c/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
+[10-Aug-2020 17:48:45 America/New_York] PHP Warning:  include(): Failed opening '/home/aidifxin/cloud/vehicle/c/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/aidispatchsys.irontin.com/vehicle/v/readChatAPI.php on line 72
